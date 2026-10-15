@@ -1,5 +1,7 @@
 # 🧠 HYBRID SOTA ARC SOLVER - Production Version
 
+**The ARC Prize 2025 is an international AI competition that challenges artificial intelligence systems to solve complex abstract reasoning and few-shot generalization tasks**
+
 *A competitive multi-tier solver for the ARC-AGI Prize 2025 competition*
 
 ## 🎯 Overview
